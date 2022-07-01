@@ -16,5 +16,5 @@ Cypress: [Cypress](https://download.cypress.io/desktop/6.8.0)
 ## Deployment guildline
 [Link Deployment guildline](https://docs.google.com/document/d/1EuLd19JSEV86-NXy1dXQCDPFK1HQ_eWJuV3H_CmwI_g/edit?usp=sharing)
 ## Cypress
-![Cypress_test](https://drive.google.com/file/d/1kDZjI_4dX_P7GANWy0poFjzn-lk1hTd3/view?usp=sharing)
+![Cypress_test](https://scontent.fsgn2-2.fna.fbcdn.net/v/t1.15752-9/291076108_1207421526737771_8901763615492548755_n.png?_nc_cat=103&ccb=1-7&_nc_sid=ae9488&_nc_ohc=oHSUeyddjncAX9gmfTH&_nc_ht=scontent.fsgn2-2.fna&oh=03_AVK2sADKziyTu7Uy_5HprvQnmYv_x96wpupp0neGyaqq-A&oe=62E41798)
 
