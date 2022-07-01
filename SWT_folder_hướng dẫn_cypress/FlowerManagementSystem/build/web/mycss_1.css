@@ -1,0 +1,19 @@
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+
+    text-align: center;
+}
+table td{
+    border: solid 2px gold;
+    color: black;
+    font-size: 30px;
+    padding: 10px;
+    background-color: #F8F8F8;
+}
+.image1{
+    width: 70%;
+    text-align: center;
+
+}
